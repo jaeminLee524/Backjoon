@@ -37,7 +37,7 @@ m = 3
 n = 4
 array = [[0] * m for _ in range(n)]
 
-print(array)
+print("test", array)
 
 a = [1,2,3,4,5,5,5]
 remove_set = {3,5}
