@@ -9,4 +9,5 @@ hq.heappush(pq, 8)
 print(pq)
 
 while pq:
-    hq.heappop(pq)
+    heappop = hq.heappop(pq)
+    print(heappop)
