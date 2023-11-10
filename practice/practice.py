@@ -278,4 +278,3 @@ for i in range(len(nums)):
             output.append(i_val)
             output.append(j_val)
             print(output)
-
